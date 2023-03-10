@@ -1,0 +1,10 @@
+.work{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
+.back-img{
+    background-image: url("../assets/projects/Quiz.png");
+    height: 300x;
+}
